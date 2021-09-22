@@ -1,7 +1,9 @@
 # DocuPad App
 
-1. This is the client version of the app. Please refer the server code of this app here ([Server](https://github.com/PC-Addict/DocuPad-Server))
+## Note: This is the client version of the app. Please refer the server code of this app here ([Server](https://github.com/PC-Addict/DocuPad-Server))
 
+1. Open terminal.
+2. Run "npm install" command to install the dependencies and then run "npm start" command.
 
 # Screenshots
 
