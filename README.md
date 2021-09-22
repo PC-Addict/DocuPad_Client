@@ -1,6 +1,6 @@
 # DocuPad App
 
-1. This is the client version of the app. Please refer the server code of this app
+1. This is the client version of the app. Please refer the server code of this app here ([Server](https://github.com/PC-Addict/DocuPad-Server))
 
 
 # Screenshots
